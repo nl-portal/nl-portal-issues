@@ -2,7 +2,7 @@
 name: TODO Template (NL)
 about: Er moet iets gedaan worden
 title: "[TODO] "
-labels: ''
+labels: 'todo'
 assignees: ''
 
 ---

@@ -2,7 +2,7 @@
 name: RFC Template (NL)
 about: Verzoek tot aanpassing
 title: "[RFC] "
-labels: ''
+labels: 'rfc'
 assignees: ''
 
 ---

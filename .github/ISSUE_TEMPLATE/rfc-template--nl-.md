@@ -1,8 +1,8 @@
 ---
 name: RFC Template (NL)
-about: Waarom, Hoe en Wat
-title: "[RFC] Ik wil dat..."
-labels: ''
+about: Verzoek tot aanpassing
+title: "[RFC] "
+labels: 'rfc'
 assignees: ''
 
 ---

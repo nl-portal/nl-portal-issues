@@ -1,43 +1,25 @@
 ---
-name: RFC Template (NL)
-about: Verzoek tot aanpassing
-title: "[RFC] "
-labels: 'rfc'
+name: Verzoek tot verandering (NL)
+about: Ontbrekende functionaliteit of gewenste wijzigingen voor NL Portal? Geef ze hier aan.
+title: ""
+labels: rfc
 assignees: ''
-
 ---
 
-## Waarom. 
-*Waarom hebben we deze feature nodig?*
+### Context en motivatie
+Welk probleem adresseert dit verzoek en welke gebruikers ervaren daar hinder van?
 
-- **Probleemstelling**:  
-[Vul mij in]
+### Voorstel
+Beschrijf de gewenste verandering, functionaliteit of experiment en licht toe welke elementen vooraf bekend moeten zijn voor een zinvolle bespreking.
 
-- **Waardepropositie**:  
-[Vul mij in]
+### Doelen en acceptatiecriteria
+Hoe blijkt succes voor gebruikers en voor de organisatie?
 
-## Hoe
-*Hoe zien we deze feature werken?*
+### Overwogen alternatieven
+Welke andere opties zijn onderzocht en waarom zijn die niet verder uitgewerkt?
 
-- **Leidende Principes**:  
-[Vul mij in]
+### Afhankelijkheden, risico's en openstaande vragen
+Welke partijen zijn nodig, welke randvoorwaarden gelden en welke onzekerheden verdienen aandacht?
 
-- **Belangrijke Gebruiksscenario's**:  
-[Vul mij in]
-
-## Wat
-*Wat moet er gedaan worden om deze feature te implementeren?*
-
-- **Functiebeschrijving**:  
-[Vul mij in]
-
-- **Vereisten**:  
-[Vul mij in]
-
-- **Acceptatiecriteria**:  
-[Vul mij in]
-
-## Aanvullende Context
-- **Belanghebbenden**: [Vul mij in]
-- **Referenties**: [Vul mij in]
-- **Potentiële Uitdagingen**: [Vul mij in]
+### Ondersteunende informatie
+Deel relevante links, mockups, rapportages of cijfers ter onderbouwing.
